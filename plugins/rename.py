@@ -170,5 +170,5 @@ from asyncio import sleep
         manager(message.from_user.id,False)
     await ubot.stop()
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-New File at plugins · jordngill/rename-bot-new 
+#Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+#New File at plugins · jordngill/rename-bot-new 
